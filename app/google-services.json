@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274306764991",
+    "firebase_url": "https://chatbodrchatru.firebaseio.com",
+    "project_id": "chatbodrchatru",
+    "storage_bucket": "chatbodrchatru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274306764991:android:f8d050382bcfe5938cb60a",
+        "android_client_info": {
+          "package_name": "com.example.webviewtemplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274306764991-6tank17r0od2ulvf8qgesb1etql3int5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh17QQ-L7kUf-cBSQvdcAq84LZ3CXIOTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274306764991-6tank17r0od2ulvf8qgesb1etql3int5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
